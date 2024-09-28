@@ -1,0 +1,9 @@
+{
+  "name": "zenn",
+  "scripts": {
+    "preview": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.157"
+  }
+}

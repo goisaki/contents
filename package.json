@@ -1,0 +1,8 @@
+{
+  "name": "contents",
+  "private": true,
+  "workspaces": [
+    "zenn/",
+    "qiita/"
+  ]
+}

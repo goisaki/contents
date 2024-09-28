@@ -1,0 +1,9 @@
+{
+  "name": "qiita",
+  "scripts": {
+    "preview": "qiita preview"
+  },
+  "dependencies": {
+    "@qiita/qiita-cli": "^1.5.0"
+  }
+}
